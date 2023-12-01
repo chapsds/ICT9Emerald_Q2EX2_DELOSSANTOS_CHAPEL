@@ -1,0 +1,18 @@
+h1 {
+	font-family: fantasy;
+}
+
+
+body {
+	text-align: center;
+}
+
+#topic1 {
+	background-color: red;
+	font-family: fantasy;
+}
+#topic2
+{
+	background-color: greenyellow;
+	font-family: fantasy;
+}
